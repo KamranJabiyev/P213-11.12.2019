@@ -1,0 +1,6 @@
+E:\project\P213\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+E:\project\P213\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+E:\project\P213\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+E:\project\P213\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+E:\project\P213\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+E:\project\P213\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
